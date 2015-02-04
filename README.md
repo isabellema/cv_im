@@ -1,2 +1,2 @@
 # cv_im
-Source code of my French CV online
+Source code of my French CV online, using [PocketGrid](http://arnaudleray.github.io/pocketgrid/)
